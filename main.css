@@ -1,0 +1,25 @@
+form {
+    margin: 0 auto;
+    width: 500px;
+    height: 600px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    background-color: grey;
+}
+
+input {
+    height: 48px;
+    font-size: 32px;
+}
+button{
+    background-color: blue;
+    padding: 24px 32px;
+    color: #fff;
+    font-size: 32px;
+}
+.inputs__wrap{
+    max-width: 100%;
+    display: grid;
+    grid-template-columns: 100px 1fr;
+}
