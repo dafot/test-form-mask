@@ -18,8 +18,3 @@ button{
     color: #fff;
     font-size: 32px;
 }
-.inputs__wrap{
-    max-width: 100%;
-    display: grid;
-    grid-template-columns: 100px 1fr;
-}
